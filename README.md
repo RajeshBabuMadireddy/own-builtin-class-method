@@ -1,0 +1,1 @@
+# own-builtin-class-method
